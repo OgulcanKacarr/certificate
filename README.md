@@ -1,2 +1,2 @@
 # certificate
-my_certificates
+my_simple_certificates
